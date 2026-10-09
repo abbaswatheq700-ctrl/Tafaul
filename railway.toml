@@ -1,0 +1,2 @@
+[deploy]
+startCommand = "python channel_reactions_bot-1.py"
